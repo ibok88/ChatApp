@@ -1,0 +1,10 @@
+c:\Users\princ\OneDrive\documents\visual studio 2017\Projects\ChatApp\RealServer\bin\Debug\RealServer.dll.config
+c:\Users\princ\OneDrive\documents\visual studio 2017\Projects\ChatApp\RealServer\bin\Debug\RealServer.dll
+c:\Users\princ\OneDrive\documents\visual studio 2017\Projects\ChatApp\RealServer\bin\Debug\RealServer.pdb
+c:\Users\princ\OneDrive\documents\visual studio 2017\Projects\ChatApp\RealServer\bin\Debug\ClientServerInterface.dll
+c:\Users\princ\OneDrive\documents\visual studio 2017\Projects\ChatApp\RealServer\bin\Debug\ClientServerInterface.pdb
+c:\Users\princ\OneDrive\documents\visual studio 2017\Projects\ChatApp\RealServer\obj\Debug\RealServer.csprojResolveAssemblyReference.cache
+c:\Users\princ\OneDrive\documents\visual studio 2017\Projects\ChatApp\RealServer\obj\Debug\RealServer.csproj.CoreCompileInputs.cache
+c:\Users\princ\OneDrive\documents\visual studio 2017\Projects\ChatApp\RealServer\obj\Debug\RealServer.csproj.CopyComplete
+c:\Users\princ\OneDrive\documents\visual studio 2017\Projects\ChatApp\RealServer\obj\Debug\RealServer.dll
+c:\Users\princ\OneDrive\documents\visual studio 2017\Projects\ChatApp\RealServer\obj\Debug\RealServer.pdb

@@ -1,0 +1,10 @@
+c:\users\princ\onedrive\documents\visual studio 2017\Projects\ChatApp\ChatServerMessenger\bin\Debug\ChatServerMessenger.dll.config
+c:\users\princ\onedrive\documents\visual studio 2017\Projects\ChatApp\ChatServerMessenger\bin\Debug\ChatServerMessenger.dll
+c:\users\princ\onedrive\documents\visual studio 2017\Projects\ChatApp\ChatServerMessenger\bin\Debug\ChatServerMessenger.pdb
+c:\users\princ\onedrive\documents\visual studio 2017\Projects\ChatApp\ChatServerMessenger\bin\Debug\ClassLibrary1.dll
+c:\users\princ\onedrive\documents\visual studio 2017\Projects\ChatApp\ChatServerMessenger\bin\Debug\ClassLibrary1.pdb
+c:\users\princ\onedrive\documents\visual studio 2017\Projects\ChatApp\ChatServerMessenger\obj\Debug\ChatServerMessenger.csprojResolveAssemblyReference.cache
+c:\users\princ\onedrive\documents\visual studio 2017\Projects\ChatApp\ChatServerMessenger\obj\Debug\ChatServerMessenger.csproj.CoreCompileInputs.cache
+c:\users\princ\onedrive\documents\visual studio 2017\Projects\ChatApp\ChatServerMessenger\obj\Debug\ChatServerMessenger.csproj.CopyComplete
+c:\users\princ\onedrive\documents\visual studio 2017\Projects\ChatApp\ChatServerMessenger\obj\Debug\ChatServerMessenger.dll
+c:\users\princ\onedrive\documents\visual studio 2017\Projects\ChatApp\ChatServerMessenger\obj\Debug\ChatServerMessenger.pdb

@@ -1,0 +1,10 @@
+C:\Users\princ\OneDrive\Documents\Visual Studio 2017\Projects\ChatApp\ServerChatConsole\obj\Debug\ServerChatConsole.csprojResolveAssemblyReference.cache
+C:\Users\princ\OneDrive\Documents\Visual Studio 2017\Projects\ChatApp\ServerChatConsole\obj\Debug\ServerChatConsole.csproj.CoreCompileInputs.cache
+C:\Users\princ\OneDrive\Documents\Visual Studio 2017\Projects\ChatApp\ServerChatConsole\bin\Debug\ServerChatConsole.exe.config
+C:\Users\princ\OneDrive\Documents\Visual Studio 2017\Projects\ChatApp\ServerChatConsole\bin\Debug\ServerChatConsole.exe
+C:\Users\princ\OneDrive\Documents\Visual Studio 2017\Projects\ChatApp\ServerChatConsole\bin\Debug\ServerChatConsole.pdb
+C:\Users\princ\OneDrive\Documents\Visual Studio 2017\Projects\ChatApp\ServerChatConsole\bin\Debug\ClientServerInterface.dll
+C:\Users\princ\OneDrive\Documents\Visual Studio 2017\Projects\ChatApp\ServerChatConsole\bin\Debug\ClientServerInterface.pdb
+C:\Users\princ\OneDrive\Documents\Visual Studio 2017\Projects\ChatApp\ServerChatConsole\obj\Debug\ServerChatConsole.csproj.CopyComplete
+C:\Users\princ\OneDrive\Documents\Visual Studio 2017\Projects\ChatApp\ServerChatConsole\obj\Debug\ServerChatConsole.exe
+C:\Users\princ\OneDrive\Documents\Visual Studio 2017\Projects\ChatApp\ServerChatConsole\obj\Debug\ServerChatConsole.pdb

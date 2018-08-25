@@ -1,0 +1,6 @@
+c:\Users\princ\OneDrive\documents\visual studio 2017\Projects\ChatApp\ClientServerInterface\bin\Debug\ClientServerInterface.dll
+c:\Users\princ\OneDrive\documents\visual studio 2017\Projects\ChatApp\ClientServerInterface\bin\Debug\ClientServerInterface.pdb
+c:\Users\princ\OneDrive\documents\visual studio 2017\Projects\ChatApp\ClientServerInterface\obj\Debug\ClientServerInterface.csprojResolveAssemblyReference.cache
+c:\Users\princ\OneDrive\documents\visual studio 2017\Projects\ChatApp\ClientServerInterface\obj\Debug\ClientServerInterface.csproj.CoreCompileInputs.cache
+c:\Users\princ\OneDrive\documents\visual studio 2017\Projects\ChatApp\ClientServerInterface\obj\Debug\ClientServerInterface.dll
+c:\Users\princ\OneDrive\documents\visual studio 2017\Projects\ChatApp\ClientServerInterface\obj\Debug\ClientServerInterface.pdb
